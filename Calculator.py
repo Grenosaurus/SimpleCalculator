@@ -1,4 +1,4 @@
-# Simple calculator
+# Simple calculator (Made: Jauaries).
 
 import math
 
