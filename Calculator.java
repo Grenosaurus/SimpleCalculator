@@ -1,7 +1,8 @@
+//Simple calculator program coded in java (Made: Jauaries).
+
 import java.util.Scanner;
 import java.lang.Math;
 
-//Simple calculator program coded in java
 public class Calculator {
     public static void main(String[] args) {
         double num1, num2;
