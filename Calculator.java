@@ -1,4 +1,4 @@
-//Simple calculator program coded in java (Made: Jauaries).
+// Simple calculator program coded in java (Made: Jauaries).
 
 import java.util.Scanner;
 import java.lang.Math;
